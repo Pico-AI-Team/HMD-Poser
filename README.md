@@ -5,7 +5,7 @@
 > PICO, ByteDance  
 > :partying_face: <strong>Accepted to CVPR 2024</strong>
 
-[[`arXiv`](***)] [[`Project`](https://humanmotiontracking.github.io/)]
+[[`arXiv`](https://arxiv.org/abs/2403.03561)] [[`Project`](https://pico-ai-team.github.io/hmd-poser)]
 
 
 ## :mega: Updates
