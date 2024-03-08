@@ -1,6 +1,6 @@
 # HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations
 
-> [**HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations**](https://humanmotiontracking.github.io/)  
+> [**HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations**](https://pico-ai-team.github.io/hmd-poser)  
 > Peng Dai, Yang Zhang, Tao Liu, Zhen Fan, Tianyuan Du, Zhuo Su, Xiaozheng Zheng, Zeming Li  
 > PICO, ByteDance  
 > :partying_face: <strong>Accepted to CVPR 2024</strong>
