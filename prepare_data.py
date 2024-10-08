@@ -225,7 +225,7 @@ def process_protocol2(args, bm_male, bm_female):
         for filepath in tqdm(filepaths):
             data = {}
             bdata = np.load(
-                os.path.join(args.root_dir, filepath), allow_pickle=True
+                filepath, allow_pickle=True
             )
 
             if "mocap_framerate" in bdata:
