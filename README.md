@@ -9,7 +9,7 @@
 
 
 ## :mega: Updates
-- [ ] Release the pre-trained models and the evaluation results. (Expected to be ready in 03/2024)
+- [x] Release the pre-trained models and the evaluation results.
       
 - [x] Release the PICO-FreeDancing dataset.
       
@@ -51,13 +51,13 @@ python test.py --config ./options/test_config.yaml
 ## :lollipop: Pre-trained Model
 ### Protocol1
 
-Trained Model: coming soon.
+Trained Model: `pretrained_model/pretrained_model_protocol1.pt`.
 
-| Input Type | MPJRE  | MPJPE  | MPJVE  |  Jitter  |
-| :--------- | :----: | :----: | :----: | :-------:|
-| HMD        | -      | -      | -      |   -      |
-| HMD+2IMUs  | -      | -      | -      |   -      |
-| HMD+3IMUs  | -      | -      | -      |   -      |
+| Input Type | MPJRE  | MPJPE  | MPJVE  |
+| :--------- | :----: | :----: | :----: |
+| HMD        | 2.29   | 3.15   | 17.52  |
+| HMD+2IMUs  | 1.88   | 2.30   | 13.34  |
+| HMD+3IMUs  | 1.79   | 2.01   | 12.70  |
 
 
 ## :tada: PICO-FreeDancing Dataset
